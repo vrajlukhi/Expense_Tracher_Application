@@ -1,5 +1,5 @@
-Expense Management API
-  This is a scalable RESTful API built with Node.js, Express, and MongoDB for managing expenses. The API supports features such as advanced filtering, sorting, pagination, JWT-based authentication, role-based access control, and bulk operations (via JSON and CSV upload).
+- Expense Management API
+  - This is a scalable RESTful API built with Node.js, Express, and MongoDB for managing expenses. The API supports features such as advanced filtering, sorting, pagination, JWT-based authentication, role-based access control, and bulk operations (via JSON and CSV upload).
 
 - Features
   - CRUD Operations: Create, Read, Update, and Delete expenses.
